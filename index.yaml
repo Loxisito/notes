@@ -2,23 +2,26 @@
 # https://github.com/srid/emanote/blob/master/emanote/default/index.yaml
 
 page:
-  siteTitle: Emanote Template
+  siteTitle: Loxisito’s language notes
 
 template:
-  theme: red
+  theme: blue
 
   # You can add your own variables here, like editBaseUrl.
   # See after-note.tpl to see where editBaseUrl gets used.
-  editBaseUrl: https://github.com/srid/emanote-template/edit/master
+  editBaseUrl: https://loxisito.github.io/notes
 
   # Uncomment this to get neuron-style pages
-  # name: /templates/layouts/note
-  # layout:
-  #   note:
-  #     containerClass: container mx-auto max-w-screen-lg
-
-  sidebar:
-    collapsed: false
+  uptree: 
+    enable: true
+  sidebar: 
+    enable: false
+  breadcrumbs: 
+    enable: false
+  toc:
+    enable: true
+  base:
+    containerClass: container mx-auto max-w-prose
 
   # If you are hosting on GitLab Pages, you may want to remove this.
   urlStrategy: pretty

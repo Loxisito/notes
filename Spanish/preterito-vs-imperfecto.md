@@ -1,9 +1,9 @@
 ---
+title: The essential difference between pretérito and imperfecto
 short-title: Preterito vs imperfecto
 date: 2022-02-22
 tags: [spanish/grammar]
 ---
-# Essential difference between pretérito and imperfecto
 In Spanish, both pretérito perfecto simple (*canté*) and pretérito imperfecto (*cantaba*) have dozens of uses. The main difference is that pretérito simple shows an event as finished, and imperfecto doesn’t.
 
 This means that if you want to show an action as occuring while something else was happening, or that it was interrupted by another action, or with habitual actions (which originally don’t have a finish), imperfecto is used instead.

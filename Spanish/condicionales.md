@@ -1,8 +1,8 @@
 ---
 title: Las oraciones condicionales
-short-title: conditinales
+short-title: condicinales
 date: 2022-09-29
-tags: [spanish/grammar]
+tags: [spanish/grammar,spanish/subjunctive]
 ---
 **«Si [prótasis], [apódosis]» → «Si llueve, me quedaré en casa»**
 
@@ -11,48 +11,51 @@ tags: [spanish/grammar]
 
 
 # Real
-
 - Prótasis: Any indicative tense except future and conditional (both simple and perfect)
 - Apódosis: Any indicative or imperative
 
-> Si no vas a venir, avísame antes.
+> «Si no vas a venir, avísame antes.»
 > 
-> Si no hacías lo que él decía, se enfadaba.
+> «Si no hacías lo que él decía, se enfadaba.»
 > 
-> Ponte el abrigo si vas a salir.
+> «Ponte el abrigo si vas a salir.»
 > 
-> Si me he equivocado, te ruego que me perdones.
+> «Si me he equivocado, te ruego que me perdones.»
 > 
-> Si tu abuelo murió en el Titanic, su nombre estará en el registro de pasajeros.
+> «Si tu abuelo murió en el Titanic, su nombre estará en el registro de pasajeros.»
 
 
 # Irreal Present/Future
-# 
-This is also called *hypothetical*.
+Also called *hypothetical*.
 
 - Prótasis: imperfect subjunctive (-ra/-se)
 - Apódosis: conditional simple
 
-> Si tuviera/tuviese dinero, compraría un coche.
+> «Si tuviera/tuviese dinero, compraría un coche.»
 > 
-> Si fuera/fuese tú, le diría la verdad.
+> «Si [yo] fuera/fuese tú, le diría la verdad.»
 
 
 ## Colloquial
 
 1. Latin America (mostly Caribe, from what I understand):
-- Prótasis: imperfect subjunctive (-ra/-se)
-- Apódosis: imperfect subjunctive (-ra)
-
-
+  - Prótasis: imperfect subjunctive (-ra/-se)
+  - Apódosis: imperfect subjunctive (-ra)
 2. (mostly) Spain:
-- Prótasis: imperfect subjunctive (-ra/-se)
-- Apódosis: imperfect indicative
+  - Prótasis: imperfect subjunctive (-ra/-se)
+  - Apódosis: imperfect indicative
 
-> Si me tocara/tocase la lotería, me comprara un coche.
+> «Si me tocara/tocase la lotería, me comprara un coche.»
 > 
-> Si me tocara/tocase la lotería, me compraba un coche.
+> «Si me tocara/tocase la lotería, me compraba un coche.»
 
+> [!info]
+> Although I haven’t found any information about it, I personally interpret this imperfect
+> as carrying a sort of intention/desire with it. I can’t recall having seen it in objective
+> statements like «Si el sol no existiera, la vida en la Tierra sería imposible».
+
+> [!info]
+> This imperfect can also be used separately as in «Yo (que tú) lo dejaba así».
 
 # Irreal Past
 
@@ -60,16 +63,15 @@ This is also called *hypothetical*.
 - Apódosis: past perfect subjunctive (preferably -ra, but also -se) or conditional (simple or perfect)
 
 
-> Si hubieras/hubieses estudiado, habrías/hubieras/(hubieses) aprobado.
+> «Si hubieras/hubieses estudiado, habrías/hubieras/(hubieses) aprobado.»
 > 
-> Si hubiera/hubiese terminado los estudios, hoy tendría un trabajo mejor.
+> «Si hubiera/hubiese terminado los estudios, hoy tendría un trabajo mejor.»
 
 
 - Prótasis: imperfect subjunctive (-ra/-se)
 - Apódosis: conditional perfect
 
-> Si estuvieras más atento en clase, habrías obtenido mejor calificación.
-
+> «Si estuvieras más atento en clase, habrías obtenido mejor calificación.»
 
 # Real (Future Subjunctive)
 Future subjunctive is obsolete, but you may still find it in religious, legal and Medieval texts:
@@ -77,9 +79,9 @@ Future subjunctive is obsolete, but you may still find it in religious, legal an
 - Prótasis: future subjunctive or future perfect subjunctive
 - Apódosis: future
 
-> Si no se presentare el escrito en el plazo indicado, el demandante perderá sus derechos.
+> «Si no se presentare el escrito en el plazo indicado, el demandante perderá sus derechos.»
 > 
-> Si el solicitante no hubiere acreditado suficientemente sus méritos, se considerará inválida su petición.
+> «Si el solicitante no hubiere acreditado suficientemente sus méritos, se considerará inválida su petición.»
 
 Fuente: https://www.rae.es/dpd/si (1.1)
 

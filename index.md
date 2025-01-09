@@ -14,8 +14,7 @@ Feel free to use them for reference.
 
 
 ```query
--"Language notes"
-path:./*
+path:./[A-Z]*
 ```
 
 > Ismétlés a tudás anyja.

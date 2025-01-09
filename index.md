@@ -14,7 +14,7 @@ Feel free to use them for reference.
 
 
 ```query
-path:./[A-Z]*
+path:./*
 ```
 
 > Ismétlés a tudás anyja.

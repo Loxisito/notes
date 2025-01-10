@@ -11,7 +11,12 @@ Its sibling is dequeismo: putting an invasive *de* before the conjuntion due to 
 
 # Certain pronominal verbs
 
-- acordarse **de** algo, alegrarse **de** algo, arrepentirse **de** algo, fijarse **en** algo, olvidarse **de** algo, preocuparse **de** o **por** algo, etc.
+- acordarse **de** algo,
+- alegrarse **de** algo,
+- arrepentirse **de** algo,
+- fijarse **en** algo,
+- olvidarse **de** algo,
+- preocuparse **de** o **por** algo, etc.
 
 > Me alegro que hayas venido. :x: (queísmo)
 > 
@@ -27,9 +32,13 @@ Its sibling is dequeismo: putting an invasive *de* before the conjuntion due to 
 
 # Verbs/Nouns/Adjectives that take objects introduced by a preposition
 
-- convencer **de** algo, insistir **en** algo, tratar **de** algo etc.
-- tener ganas **de** algo, tener miedo **de** algo etc.
-- estar seguro **de** algo, estar convencido **de** algo etc.
+- convencer **de** algo,
+- insistir **en** algo,
+- tratar **de** algo etc.
+- tener ganas **de** algo,
+- tener miedo **de** algo etc.
+- estar seguro **de** algo,
+- estar convencido **de** algo etc.
 
 
 # Certain verbal phrases

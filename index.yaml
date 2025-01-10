@@ -9,7 +9,7 @@ template:
 
   # You can add your own variables here, like editBaseUrl.
   # See after-note.tpl to see where editBaseUrl gets used.
-  #editBaseUrl: https://loxisito.github.io/notes
+  #editBaseUrl:
 
   # Uncomment this to get neuron-style pages
   uptree: 
